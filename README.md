@@ -9,12 +9,16 @@
 | Classification  | Stack |
 | ------------- | ------------- |
 | Language  | Java, python, C++, Javascript, HTML5, markdown  |
-| Framework  | Spring, Laravel, AngularJS  |
+| Framework | Spring, iBatis/myBatis, Node.js, AngularJS  |
 | DB  | Oracle, MySQL  |
-| Application & Data | Bootstrap, jQuery  |
+| Libraries | Bootstrap, jQuery, ReactJS  |
 | Utils  | Google drive  |
 | devOps  | github, Eclipse, IntelliJ IDEA  |
 
-
-
 ## Educated
+
+## Certification
+- Network Advisor Grade2 	December 13, 2016
+
+## Military service
+November 2009 - September 2011 active army service (an honorable discharge)
