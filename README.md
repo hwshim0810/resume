@@ -1,5 +1,8 @@
 # 심현우(Shim Hyun Woo)
 
+## Blog
+[![Blog](https://img.shields.io/badge/blog-active-brightgreen.svg)](https://hwshim0810.github.io/)
+
 ## Contact
 [![e-mail](https://img.shields.io/badge/email-hwshim8808@gmail.com-blue.svg)](mailto:hwshim8808@gmail.com)
 
