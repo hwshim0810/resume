@@ -11,12 +11,12 @@
 
 | Classification  | Stack |
 | ------------- | ------------- |
-| Language  | Java, python, C++, Javascript, HTML5, markdown  |
-| Framework | Spring, iBatis/myBatis, Node.js, Angular.js  |
+| Language  | Java, Python, JSP/Servlet, Javascript, HTML5, markdown  |
+| Framework | Spring, Django, iBatis/myBatis, Node.js, Angular.js  |
 | DB  | Oracle, MySQL  |
 | Libraries | Bootstrap, jQuery, React.js  |
 | Utils  | Google drive  |
-| devOps  | github, Eclipse, IntelliJ IDEA  |
+| devOps  | github, Eclipse, IntelliJ , PyCharm, Atom  |
 
 ## Educated
 
