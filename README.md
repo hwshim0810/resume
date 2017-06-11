@@ -12,11 +12,15 @@
 | Classification  | Stack |
 | ------------- | ------------- |
 | Language  | Java, Python, JSP/Servlet, Javascript, HTML5, markdown  |
-| Framework | Spring, Django, iBatis/myBatis, Node.js, Angular.js  |
-| DB  | Oracle, MySQL  |
+| Framework | Spring, Django, iBatis/myBatis, Node.js  |
+| DB  | PostgreSQL, Oracle, MySQL  |
 | Libraries | Bootstrap, jQuery, React.js  |
 | Utils  | Google drive  |
-| devOps  | github, Eclipse, IntelliJ , PyCharm, Atom  |
+| devOps  | github, Eclipse, IntelliJ, PyCharm, Atom, Amazon AWS  |
+
+## Experience
+### 아테나스랩 (Athenaslab)  
+- Backend Developer `2017.05 ~ Now`
 
 ## Educated
 
