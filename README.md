@@ -7,26 +7,31 @@
 [![e-mail](https://img.shields.io/badge/email-hwshim8808@gmail.com-blue.svg)](mailto:hwshim8808@gmail.com)
 
 ## Tach Stack
-[![StackShare](https://img.shields.io/badge/tech-stack(CLICK!)-0690fa.svg?style=flat)](https://stackshare.io/hwshim0810/techstack) 에서 저의 Stack 에 대한 저의 의견확인이 가능합니다.
-
 | Classification  | Stack |
 | ------------- | ------------- |
-| Language  | Java, Python, JSP/Servlet, Javascript, HTML5, markdown  |
-| Framework | Spring, Django, iBatis/myBatis, Node.js  |
+| Language  | Java, Kotlin, Python, JSP/Servlet, Javascript, HTML5, markdown  |
+| Framework | Spring, Android, Django, iBatis/myBatis, Node.js  |
 | DB  | PostgreSQL, Oracle, MySQL  |
-| Libraries | Bootstrap, jQuery, React.js  |
-| Utils  | Google drive  |
-| devOps  | github, Eclipse, IntelliJ, PyCharm, Atom, Amazon AWS  |
+| Libraries | React.js, ReactNative, Bootstrap, jQuery  |
+| devOps  | github, Eclipse, IntelliJ/Android Studio, PyCharm, VSCode, Amazon AWS  |
 
 ## Experience
-### 아테나스랩 (Athenaslab)  
-- Backend Developer `2017.05 ~ Now`
+### 아테나스랩 (Athenaslab)  `2017.05 ~ Now`
+- Prompie : Freelancer searching service
+  - Backend developer
+  - Django
+- Moa : Community service
+  - Backend / Andorid developer
+  - Spring framework, Android
 
 ## Educated
-
+- Korea National Open University
+  -Bachelor's degree, Computer Science
+  
 ## Certification
 - The Test of " General Computer User, Level-I " (October 28, 2016)
 - Network Advisor -- Grade2 (December 13, 2016)
+- Industrial Engineer Information Processing (August 04, 2017)
 
 ## Military service
 November 2009 - September 2011 active army service (an honorable discharge)
