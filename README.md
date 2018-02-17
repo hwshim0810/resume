@@ -6,7 +6,7 @@
 ## Contact
 [![e-mail](https://img.shields.io/badge/email-hwshim8808@gmail.com-blue.svg)](mailto:hwshim8808@gmail.com)
 
-## Tach Stack
+## Tech Stack
 | Classification  | Stack |
 | ------------- | ------------- |
 | Language  | Java, Kotlin, Python, JSP/Servlet, Javascript, HTML5, markdown  |
