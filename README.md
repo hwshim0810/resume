@@ -1,10 +1,16 @@
 # 심현우(Shim Hyun Woo)
 
+I'm willing to join to face the technical challenge as a software engineer, doing my best to solve any problem with progressive attitude and passion. always seeking the chance to expand my knowledge and skills.
+
+- Creative thinker
+- Challenger: willingness to learn quickly and be challenged to grow, exceptional troubleshooting capabilities
+- Skilled Communicator: goal-oriented, outstanding communication and interpersonal skills, high-motivator
+
 ## Blog
 [![Blog](https://img.shields.io/badge/blog-active-brightgreen.svg)](https://hwshim0810.github.io/)
 
 ## Contact
-[![e-mail](https://img.shields.io/badge/email-hwshim8808@gmail.com-blue.svg)](mailto:hwshim8808@gmail.com)
+[![e-mail](https://img.shields.io/badge/email-hyunwoo.shim@laziness.xyz-blue.svg)](mailto:hyunwoo.shim@laziness.xyz)
 
 ## Tech Stack
 | Classification  | Stack |
