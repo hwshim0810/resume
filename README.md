@@ -18,8 +18,8 @@ I'm willing to join to face the technical challenge as a software engineer, doin
 | Language  | Java, Kotlin, Python, JSP/Servlet, Javascript, HTML5, markdown  |
 | Framework | Spring, Android, Django, iBatis/myBatis, Node.js  |
 | DB  | PostgreSQL, Oracle, MySQL  |
-| Libraries | React.js, ReactNative, Bootstrap, jQuery  |
-| devOps  | github, Eclipse, IntelliJ/Android Studio, PyCharm, VSCode, Amazon AWS  |
+| Libraries | React.js, ReactNative, Django RestFramework, Bootstrap, jQuery  |
+| devOps  | github, Docker, Jira, Eclipse, IntelliJ/Android Studio, PyCharm, VSCode, Amazon AWS, Firebase  |
 
 ## Experience
 ### 아테나스랩 (Athenaslab)  `2017.05 ~ Now`
