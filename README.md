@@ -15,11 +15,17 @@ I'm willing to join to face the technical challenge as a software engineer, doin
 ## Tech Stack
 | Classification  | Stack |
 | ------------- | ------------- |
-| Language  | Java, Kotlin, Python, JSP/Servlet, Javascript, HTML5, markdown  |
-| Framework | Spring, Android, Django, iBatis/myBatis, Node.js  |
-| DB  | PostgreSQL, Oracle, MySQL  |
-| Libraries | React.js, ReactNative, Django RestFramework, Bootstrap, jQuery  |
-| devOps  | github, Docker, Jira, Eclipse, IntelliJ/Android Studio, PyCharm, VSCode, Amazon AWS, Firebase  |
+| Language  | Java, Kotlin, Python, JSP/Servlet, Javascript, HTML5, CSS/SASS, markdown  |
+| Framework | Spring, SpringBoot, Android, Django, iBatis/myBatis, Node.js  |
+| DataStores | PostgreSQL, Oracle, MySQL, Redis, Celery |
+| Libraries | React.js, ReactNative, Redux.js, Django RestFramework, Pandas, Bootstrap, jQuery  |
+| devOps  | Docker, DockerCompose, Amazon AWS EC2/S3/RDS/Route53/Elastic Beanstalk, Firebase DB/Cloud Messaging  |
+| Version Control | Git, Github, Gitlab, Bitbucket |
+| Build/Test | pytest, Selenium, Webpack, Gradle, Maven, Mocha |
+| Monitoring | Crashlytics, Sentry |
+| OS | Ubuntu, Windows |
+| Tools | Jira, Slack, Trello, Postman, Jekyll |
+| Editor | Eclipse, IntelliJ/Android Studio, PyCharm, VSCode |
 
 ## Experience
 ### 아테나스랩 (Athenaslab)  `2017.05 ~ Now`
