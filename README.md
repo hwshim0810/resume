@@ -1,4 +1,4 @@
-# 심현우(Shim Hyun Woo)
+# 심현우(Hyunwoo Shim)
 
 I'm willing to join to face the technical challenge as a software engineer, doing my best to solve any problem with progressive attitude and passion. always seeking the chance to expand my knowledge and skills.
 
@@ -38,7 +38,7 @@ I'm willing to join to face the technical challenge as a software engineer, doin
 
 ## Educated
 - Korea National Open University
-  -Bachelor's degree, Computer Science
+  - Bachelor's degree, Computer Science
   
 ## Certification
 - The Test of " General Computer User, Level-I " (October 28, 2016)
